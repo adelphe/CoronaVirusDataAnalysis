@@ -1,4 +1,4 @@
-# Data Engineering Project Batch processing
+# Data Engineering Project Batch Processing
 
 This is a template you can use for your next data engineering portfolio project. To copy it, log into GitHub and click on the **Use this template** button above.
 
