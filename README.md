@@ -41,7 +41,6 @@ It's good to reflect on what you learned throughout the process of building this
 
 ## Data source
 
-https://www.kaggle.com/datasets/maximrazin/novel-coronavirus-covid19-cases 
 https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
 
 ## Contact
