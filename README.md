@@ -41,7 +41,7 @@ It's good to reflect on what you learned throughout the process of building this
 
 ## Data source
 
-https://data.world/markmarkoh/coronavirus-data  
+https://www.kaggle.com/datasets/maximrazin/novel-coronavirus-covid19-cases 
 
 ## Contact
 
